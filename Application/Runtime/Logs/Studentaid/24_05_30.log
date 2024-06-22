@@ -1,0 +1,713 @@
+[ 2024-05-30T00:14:54+08:00 ] 110.28.97.105 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000609s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0017s ]
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0015s ]
+SQL: SELECT DISTINCT  `lastclass` FROM `class` ORDER BY  `lastclass` desc  [ RunTime:0.0014s ]
+SQL: SELECT * FROM `config` LIMIT 1   [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0014s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8192] Creation of dynamic property Think\Template::$tempVar is deprecated /home/hhkone/domains/hhk.one/public_html/nuuclass/ThinkPHP/Library/Think/Template.class.php 第 415 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000056s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008674s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008691s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000526s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000543s ]
+
+[ 2024-05-30T00:14:57+08:00 ] 110.28.97.105 /index.php/Studentaid/Index/class_post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000133s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000138s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000152s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `class` WHERE ( `lastclass`='管理碩' )  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000232s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000248s ]
+
+[ 2024-05-30T00:31:05+08:00 ] 147.92.179.113 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000632s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0016s ]
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0015s ]
+SQL: SELECT DISTINCT  `lastclass` FROM `class` ORDER BY  `lastclass` desc  [ RunTime:0.0011s ]
+SQL: SELECT * FROM `config` LIMIT 1   [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0013s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8192] Creation of dynamic property Think\Template::$tempVar is deprecated /home/hhkone/domains/hhk.one/public_html/nuuclass/ThinkPHP/Library/Think/Template.class.php 第 415 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000055s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008845s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008863s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000657s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000673s ]
+
+[ 2024-05-30T01:16:43+08:00 ] 82.145.215.206 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0015s ]
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0015s ]
+SQL: SELECT DISTINCT  `lastclass` FROM `class` ORDER BY  `lastclass` desc  [ RunTime:0.0013s ]
+SQL: SELECT * FROM `config` LIMIT 1   [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0014s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8192] Creation of dynamic property Think\Template::$tempVar is deprecated /home/hhkone/domains/hhk.one/public_html/nuuclass/ThinkPHP/Library/Think/Template.class.php 第 415 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000050s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008716s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008733s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000701s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000740s ]
+
+[ 2024-05-30T02:31:31+08:00 ] 112.78.94.220 /index.php/Studentaid/Work/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000596s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0015s ]
+
+[ 2024-05-30T10:35:18+08:00 ] 223.138.251.228 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000574s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0015s ]
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0014s ]
+SQL: SELECT DISTINCT  `lastclass` FROM `class` ORDER BY  `lastclass` desc  [ RunTime:0.0012s ]
+SQL: SELECT * FROM `config` LIMIT 1   [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0014s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8192] Creation of dynamic property Think\Template::$tempVar is deprecated /home/hhkone/domains/hhk.one/public_html/nuuclass/ThinkPHP/Library/Think/Template.class.php 第 415 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000056s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007341s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007356s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000545s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000561s ]
+
+[ 2024-05-30T10:35:22+08:00 ] 223.138.251.228 /index.php/Studentaid/Index/class_post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000111s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `class` WHERE ( `lastclass`='管理碩' )  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000174s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000198s ]
+
+[ 2024-05-30T10:46:39+08:00 ] 85.208.96.208 /index.php/Studentaid/Index/dologin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000632s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0016s ]
+NOTIC: [2] Undefined array key "account" /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8192] Creation of dynamic property Think\Template::$tempVar is deprecated /home/hhkone/domains/hhk.one/public_html/nuuclass/ThinkPHP/Library/Think/Template.class.php 第 415 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000018s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000032s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007331s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007361s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000278s ]
+
+[ 2024-05-30T11:57:37+08:00 ] 51.81.46.212 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000551s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0016s ]
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0015s ]
+SQL: SELECT DISTINCT  `lastclass` FROM `class` ORDER BY  `lastclass` desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `config` LIMIT 1   [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0014s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8192] Creation of dynamic property Think\Template::$tempVar is deprecated /home/hhkone/domains/hhk.one/public_html/nuuclass/ThinkPHP/Library/Think/Template.class.php 第 415 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000043s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007283s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007297s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000247s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000665s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000681s ]
+
+[ 2024-05-30T13:41:31+08:00 ] 147.92.179.107 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000588s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000604s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0017s ]
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0015s ]
+SQL: SELECT DISTINCT  `lastclass` FROM `class` ORDER BY  `lastclass` desc  [ RunTime:0.0011s ]
+SQL: SELECT * FROM `config` LIMIT 1   [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8192] Creation of dynamic property Think\Template::$tempVar is deprecated /home/hhkone/domains/hhk.one/public_html/nuuclass/ThinkPHP/Library/Think/Template.class.php 第 415 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000054s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007917s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007935s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000611s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000628s ]
+
+[ 2024-05-30T13:41:33+08:00 ] 110.28.97.105 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000133s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000146s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0034s ]
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0030s ]
+SQL: SELECT DISTINCT  `lastclass` FROM `class` ORDER BY  `lastclass` desc  [ RunTime:0.0017s ]
+SQL: SELECT * FROM `config` LIMIT 1   [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0016s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8192] Creation of dynamic property Think\Template::$tempVar is deprecated /home/hhkone/domains/hhk.one/public_html/nuuclass/ThinkPHP/Library/Think/Template.class.php 第 415 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002056s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002075s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000137s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000122s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000134s ]
+
+[ 2024-05-30T13:41:35+08:00 ] 110.28.97.105 /index.php/Studentaid/Index/class_post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000134s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000150s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `class` WHERE ( `lastclass`='管理碩' )  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000307s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000323s ]
+
+[ 2024-05-30T13:41:45+08:00 ] 110.28.97.105 /index.php/Studentaid/Index/class_post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000103s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000116s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `class` WHERE ( `lastclass`='日財金' )  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000117s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000128s ]
+
+[ 2024-05-30T13:41:52+08:00 ] 110.28.97.105 /index.php/Studentaid/Work/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000119s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000132s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `elective` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `elective` WHERE ( class='日財金二甲' && `classify`='1' )  [ RunTime:0.0084s ]
+ERR: Attempt to assign property "date" on null
+
+[ 2024-05-30T18:33:39+08:00 ] 147.92.179.114 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000559s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0015s ]
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0015s ]
+SQL: SELECT DISTINCT  `lastclass` FROM `class` ORDER BY  `lastclass` desc  [ RunTime:0.0013s ]
+SQL: SELECT * FROM `config` LIMIT 1   [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8192] Creation of dynamic property Think\Template::$tempVar is deprecated /home/hhkone/domains/hhk.one/public_html/nuuclass/ThinkPHP/Library/Think/Template.class.php 第 415 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000044s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007227s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007264s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000514s ]
+
+[ 2024-05-30T22:18:32+08:00 ] 110.28.97.105 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000643s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000659s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0016s ]
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0015s ]
+SQL: SELECT DISTINCT  `lastclass` FROM `class` ORDER BY  `lastclass` desc  [ RunTime:0.0013s ]
+SQL: SELECT * FROM `config` LIMIT 1   [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0014s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8192] Creation of dynamic property Think\Template::$tempVar is deprecated /home/hhkone/domains/hhk.one/public_html/nuuclass/ThinkPHP/Library/Think/Template.class.php 第 415 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007557s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007590s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000326s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000479s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000493s ]
+
+[ 2024-05-30T22:18:32+08:00 ] 110.28.97.105 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000111s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0016s ]
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0014s ]
+SQL: SELECT DISTINCT  `lastclass` FROM `class` ORDER BY  `lastclass` desc  [ RunTime:0.0012s ]
+SQL: SELECT * FROM `config` LIMIT 1   [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8192] Creation of dynamic property Think\Template::$tempVar is deprecated /home/hhkone/domains/hhk.one/public_html/nuuclass/ThinkPHP/Library/Think/Template.class.php 第 415 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000067s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003432s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003447s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000139s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000163s ]
+
+[ 2024-05-30T22:18:33+08:00 ] 110.28.97.105 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000098s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000104s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0016s ]
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0014s ]
+SQL: SELECT DISTINCT  `lastclass` FROM `class` ORDER BY  `lastclass` desc  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `config` LIMIT 1   [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0014s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8192] Creation of dynamic property Think\Template::$tempVar is deprecated /home/hhkone/domains/hhk.one/public_html/nuuclass/ThinkPHP/Library/Think/Template.class.php 第 415 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000046s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001977s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000114s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000124s ]
+
+[ 2024-05-30T22:18:34+08:00 ] 110.28.97.105 /index.php/Studentaid/Index/class_post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000109s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000124s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `class` WHERE ( `lastclass`='管理碩' )  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000111s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000121s ]
+
+[ 2024-05-30T22:18:37+08:00 ] 110.28.97.105 /index.php/Studentaid/Index/class_post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000098s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000120s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `class` WHERE ( `lastclass`='日財金' )  [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000340s ]
+
+[ 2024-05-30T22:18:40+08:00 ] 110.28.97.105 /index.php/Studentaid/Work/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000121s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000133s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `elective` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `elective` WHERE ( class='日財金二甲' && `classify`='1' )  [ RunTime:0.0051s ]
+ERR: Attempt to assign property "date" on null
+
+[ 2024-05-30T22:18:47+08:00 ] 110.28.97.105 /index.php/Studentaid/Work/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000107s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000123s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `elective` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `elective` WHERE ( class='日財金二甲' && `classify`='1' )  [ RunTime:0.0044s ]
+ERR: Attempt to assign property "date" on null
+
+[ 2024-05-30T22:18:54+08:00 ] 147.92.179.105 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000104s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000143s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0012s ]
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0014s ]
+SQL: SELECT DISTINCT  `lastclass` FROM `class` ORDER BY  `lastclass` desc  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `config` LIMIT 1   [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0014s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8192] Creation of dynamic property Think\Template::$tempVar is deprecated /home/hhkone/domains/hhk.one/public_html/nuuclass/ThinkPHP/Library/Think/Template.class.php 第 415 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000045s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001901s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001914s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000125s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000135s ]
+
+[ 2024-05-30T22:18:58+08:00 ] 147.92.179.108 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000110s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000134s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0016s ]
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0016s ]
+SQL: SELECT DISTINCT  `lastclass` FROM `class` ORDER BY  `lastclass` desc  [ RunTime:0.0012s ]
+SQL: SELECT * FROM `config` LIMIT 1   [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8192] Creation of dynamic property Think\Template::$tempVar is deprecated /home/hhkone/domains/hhk.one/public_html/nuuclass/ThinkPHP/Library/Think/Template.class.php 第 415 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000068s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001941s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001956s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000138s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000147s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000170s ]
+
+[ 2024-05-30T22:33:18+08:00 ] 220.137.130.89 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000566s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0023s ]
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0015s ]
+SQL: SELECT DISTINCT  `lastclass` FROM `class` ORDER BY  `lastclass` desc  [ RunTime:0.0011s ]
+SQL: SELECT * FROM `config` LIMIT 1   [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8192] Creation of dynamic property Think\Template::$tempVar is deprecated /home/hhkone/domains/hhk.one/public_html/nuuclass/ThinkPHP/Library/Think/Template.class.php 第 415 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000050s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009681s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009697s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000667s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000684s ]
+
+[ 2024-05-30T22:33:22+08:00 ] 220.137.130.89 /index.php/Studentaid/Index/class_post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000118s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `class` WHERE ( `lastclass`='管理碩' )  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000112s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000121s ]
+
+[ 2024-05-30T22:33:24+08:00 ] 220.137.130.89 /index.php/Studentaid/Work/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000190s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000204s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `elective` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `elective` WHERE ( class='管理碩士在職一甲' && `classify`='1' )  [ RunTime:0.0026s ]
+ERR: Attempt to assign property "date" on null
+
+[ 2024-05-30T22:33:26+08:00 ] 220.137.130.89 /index.php/Studentaid/Index/class_post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000105s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000117s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `class` WHERE ( `lastclass`='管理碩' )  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000123s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000132s ]
+
+[ 2024-05-30T23:13:10+08:00 ] 173.252.87.12 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000673s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0014s ]
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Undefined variable $ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [2] Trying to access array offset on null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0012s ]
+SQL: SELECT DISTINCT  `lastclass` FROM `class` ORDER BY  `lastclass` desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `config` LIMIT 1   [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8192] Creation of dynamic property Think\Template::$tempVar is deprecated /home/hhkone/domains/hhk.one/public_html/nuuclass/ThinkPHP/Library/Think/Template.class.php 第 415 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000058s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008493s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008511s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000253s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000599s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000620s ]
+

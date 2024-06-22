@@ -18,7 +18,7 @@ return array(
 	// 登入 SQL 的用戶帳號
 	'DB_USER' => 'hhkone_root',
 	// 登入 SQL 的用戶密碼
-	'DB_PWD' => 'root',
+	'DB_PWD' => 'hhkone_nuuclass',
 	// 登入資料庫使用的 port
 	'DB_PORT' => '3306',
 	// 資料庫的名稱前綴

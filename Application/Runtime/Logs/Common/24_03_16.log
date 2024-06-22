@@ -1,0 +1,6 @@
+[ 2024-03-16T07:18:07+08:00 ] 134.122.200.45 /index.php?s=index/\think\view\driver\Php/display&content=%3C?php%20var_dump(md5(2333));?%3E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+ERR: 无法加载模块:Index
+

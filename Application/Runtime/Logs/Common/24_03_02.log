@@ -1,0 +1,12 @@
+[ 2024-03-02T18:48:58+08:00 ] 134.122.200.45 /index.php?s=index/think\app/invokefunction&function=phpinfo&vars[0]=-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+ERR: 无法加载模块:Index
+
+[ 2024-03-02T21:20:22+08:00 ] 185.216.231.238 /index.php?s=index/think\app/invokefunction&function=phpinfo&vars[0]=-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+ERR: 无法加载模块:Index
+

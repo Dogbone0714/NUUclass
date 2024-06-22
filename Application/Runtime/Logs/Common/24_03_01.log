@@ -1,0 +1,24 @@
+[ 2024-03-01T03:38:00+08:00 ] 103.17.149.37 /index.php?s=index/think\app/invokefunction&function=phpinfo&vars[0]=-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+ERR: 无法加载模块:Index
+
+[ 2024-03-01T07:52:26+08:00 ] 84.17.37.233 /index.php?s=index/\think\Container/invokefunction&function=call_user_func_array&vars[0]=var_dump&vars[1][]=((md5(2333))
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000875s ]
+ERR: 无法加载模块:Index
+
+[ 2024-03-01T16:27:43+08:00 ] 134.122.200.45 /?s=index/\think\Lang/load&file=C:\windows\win.ini
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+ERR: 无法加载模块:Index
+
+[ 2024-03-01T16:27:44+08:00 ] 134.122.200.45 /?s=index/\think\Config/load&file=C:\windows\win.ini
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+ERR: 无法加载模块:Index
+

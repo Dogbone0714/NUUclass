@@ -1,0 +1,1077 @@
+[ 2024-02-25T02:06:53+08:00 ] 44.228.141.9 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000969s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000989s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0012s ]
+SQL: SELECT DISTINCT  `lastclass` FROM `class` ORDER BY  `lastclass` desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `config` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010582s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010599s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000655s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000979s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000997s ]
+
+[ 2024-02-25T08:43:31+08:00 ] 198.235.24.141 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000740s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0021s ]
+SQL: SELECT DISTINCT  `lastclass` FROM `class` ORDER BY  `lastclass` desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `config` LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008377s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008393s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000450s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000857s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000874s ]
+
+[ 2024-02-25T12:10:55+08:00 ] 135.148.100.196 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000919s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000940s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0016s ]
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0012s ]
+SQL: SELECT DISTINCT  `lastclass` FROM `class` ORDER BY  `lastclass` desc  [ RunTime:0.0013s ]
+SQL: SELECT * FROM `config` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0011s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011370s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011425s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000419s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000434s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001105s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001136s ]
+
+[ 2024-02-25T13:28:36+08:00 ] 183.136.225.44 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000701s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000719s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0008s ]
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0012s ]
+SQL: SELECT DISTINCT  `lastclass` FROM `class` ORDER BY  `lastclass` desc  [ RunTime:0.0012s ]
+SQL: SELECT * FROM `config` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000044s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008177s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008193s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000955s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000971s ]
+
+[ 2024-02-25T13:43:43+08:00 ] 58.115.54.218 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000716s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000733s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0011s ]
+SQL: SELECT DISTINCT  `lastclass` FROM `class` ORDER BY  `lastclass` desc  [ RunTime:0.0012s ]
+SQL: SELECT * FROM `config` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000046s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007962s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007979s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000370s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000689s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000705s ]
+
+[ 2024-02-25T13:43:43+08:00 ] 58.115.54.218 /index.php/Studentaid/Index/class_post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000249s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `class` WHERE ( `lastclass`='管理碩' )  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000240s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000253s ]
+
+[ 2024-02-25T13:43:53+08:00 ] 58.115.54.218 /index.php/Studentaid/Index/class_post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000223s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `class` WHERE ( `lastclass`='日資管' )  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000328s ]
+
+[ 2024-02-25T13:43:54+08:00 ] 58.115.54.218 /index.php/Studentaid/Work/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000221s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `elective` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `elective` WHERE ( class='日資管一甲' && `classify`='1' )  [ RunTime:0.0063s ]
+NOTIC: [2] Creating default object from empty value /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/WorkController.class.php 第 108 行.
+SQL: SHOW COLUMNS FROM `statistics` [ RunTime:0.0026s ]
+SQL: INSERT INTO `statistics` (`date`,`time`,`dataname`,`ip`) VALUES ('2024/02/25','01:43:54','日資管一甲','58.115.54.218') [ RunTime:0.0028s ]
+SQL: SHOW COLUMNS FROM `class_type` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `class_type`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+NOTIC: [8] Undefined index: id /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 44 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [8] Undefined index: id /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 159 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007864s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007882s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000253s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000213s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000227s ]
+
+[ 2024-02-25T13:43:55+08:00 ] 58.115.54.218 /index.php/Studentaid/Work/name_post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000170s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000198s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000213s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `elective` where `class_sit` like '%' && class like '%日資管一甲%'&& ( false  || `class_name` LIKE '%%' || `class_sitname` LIKE '%%' || `class` LIKE '%%' || `class_number` LIKE '%%' ) [ RunTime:0.0030s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000016s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000029s ]
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002321s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002334s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000216s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000227s ]
+
+[ 2024-02-25T13:44:06+08:00 ] 69.171.249.6 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000246s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0012s ]
+SQL: SELECT DISTINCT  `lastclass` FROM `class` ORDER BY  `lastclass` desc  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `config` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0011s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000056s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002786s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002804s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000287s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000301s ]
+
+[ 2024-02-25T13:44:07+08:00 ] 58.115.54.218 /index.php/Studentaid/Work/sit_post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000236s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `elective` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `elective` WHERE ( `class_number`='122MIA0023' )  [ RunTime:0.0022s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000246s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000261s ]
+
+[ 2024-02-25T13:44:07+08:00 ] 69.171.249.7 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000217s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0011s ]
+SQL: SELECT DISTINCT  `lastclass` FROM `class` ORDER BY  `lastclass` desc  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `config` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000044s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002337s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002352s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000210s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000200s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000212s ]
+
+[ 2024-02-25T13:44:12+08:00 ] 58.115.54.218 /index.php/Studentaid/Index/class_post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000258s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `class` WHERE ( `lastclass`='管理碩' )  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000240s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000254s ]
+
+[ 2024-02-25T13:44:21+08:00 ] 58.115.54.218 /index.php/Studentaid/Work/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000179s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000194s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `elective` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `elective` WHERE ( class='管理碩士在職一甲' && `classify`='1' )  [ RunTime:0.0021s ]
+NOTIC: [2] Creating default object from empty value /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/WorkController.class.php 第 108 行.
+SQL: SHOW COLUMNS FROM `statistics` [ RunTime:0.0012s ]
+SQL: INSERT INTO `statistics` (`date`,`time`,`dataname`,`ip`) VALUES ('2024/02/25','01:44:21','管理碩士在職一甲','58.115.54.218') [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `class_type` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `class_type`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: ac /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/WorkController.class.php 第 122 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000146s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000163s ]
+NOTIC: [8] Undefined index: id /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 44 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [8] Undefined index: id /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 159 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004072s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004086s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000204s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000244s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000259s ]
+
+[ 2024-02-25T13:44:21+08:00 ] 58.115.54.218 /index.php/Studentaid/Work/name_post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000231s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `elective` where `class_sit` like '%' && class like '%管理碩士在職一甲%'&& ( false  || `class_name` LIKE '%%' || `class_sitname` LIKE '%%' || `class` LIKE '%%' || `class_number` LIKE '%%' ) [ RunTime:0.0021s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000014s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000026s ]
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001878s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001893s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000206s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000192s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000203s ]
+
+[ 2024-02-25T13:44:22+08:00 ] 58.115.54.218 /index.php/Studentaid/Work/sit_post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000172s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000185s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `elective` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `elective` WHERE ( `class_number`='122MBM0002' )  [ RunTime:0.0021s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000256s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000270s ]
+
+[ 2024-02-25T13:44:22+08:00 ] 58.115.54.218 /index.php/Studentaid/Work/sit_post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000207s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `elective` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `elective` WHERE ( `class_number`='122MBM0002' )  [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000264s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000277s ]
+
+[ 2024-02-25T13:44:23+08:00 ] 58.115.54.218 /index.php/Studentaid/Work/sit_post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000173s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000187s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `elective` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `elective` WHERE ( `class_number`='122MBM0002' )  [ RunTime:0.0021s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000217s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000230s ]
+
+[ 2024-02-25T13:44:23+08:00 ] 58.115.54.218 /index.php/Studentaid/Work/sit_post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000181s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000196s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `elective` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `elective` WHERE ( `class_number`='122MBM0004' )  [ RunTime:0.0021s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000212s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000225s ]
+
+[ 2024-02-25T13:44:24+08:00 ] 58.115.54.218 /index.php/Studentaid/Work/sit_post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000197s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000212s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `elective` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `elective` WHERE ( `class_number`='122MBM0004' )  [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000215s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000227s ]
+
+[ 2024-02-25T13:44:25+08:00 ] 58.115.54.218 /index.php/Studentaid/Index/class_post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000366s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `class` WHERE ( `lastclass`='管理碩' )  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000504s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000552s ]
+
+[ 2024-02-25T15:08:04+08:00 ] 51.81.46.212 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000729s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0011s ]
+SQL: SELECT DISTINCT  `lastclass` FROM `class` ORDER BY  `lastclass` desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `config` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0011s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000048s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008814s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008841s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000508s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001119s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001147s ]
+
+[ 2024-02-25T15:45:57+08:00 ] 223.136.200.113 /index.php/Studentaid/Work/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000872s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000893s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0007s ]
+
+[ 2024-02-25T15:45:57+08:00 ] 223.136.200.113 /index.php/Studentaid/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000215s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000232s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0012s ]
+SQL: SELECT DISTINCT  `lastclass` FROM `class` ORDER BY  `lastclass` desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `config` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0011s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000066s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009741s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009759s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000814s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000832s ]
+
+[ 2024-02-25T15:45:58+08:00 ] 223.136.200.113 /index.php/Studentaid/Index/class_post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000234s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `class` WHERE ( `lastclass`='管理碩' )  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000222s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000248s ]
+
+[ 2024-02-25T15:46:04+08:00 ] 223.136.200.113 /index.php/Studentaid/Index/class_post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `class` WHERE ( `lastclass`='日電子' )  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000289s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000305s ]
+
+[ 2024-02-25T15:46:09+08:00 ] 223.136.200.113 /index.php/Studentaid/Work/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000257s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `elective` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `elective` WHERE ( class='日電子一丙' && `classify`='1' )  [ RunTime:0.0055s ]
+NOTIC: [2] Creating default object from empty value /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/WorkController.class.php 第 108 行.
+SQL: SHOW COLUMNS FROM `statistics` [ RunTime:0.0021s ]
+SQL: INSERT INTO `statistics` (`date`,`time`,`dataname`,`ip`) VALUES ('2024/02/25','03:46:09','日電子一丙','223.136.200.113') [ RunTime:0.0027s ]
+SQL: SHOW COLUMNS FROM `class_type` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `class_type`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+NOTIC: [8] Undefined index: id /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 44 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [8] Undefined index: id /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 159 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004979s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004995s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000216s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000228s ]
+
+[ 2024-02-25T15:46:10+08:00 ] 223.136.200.113 /index.php/Studentaid/Work/name_post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000287s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `elective` where `class_sit` like '%' && class like '%日電子一丙%'&& ( false  || `class_name` LIKE '%%' || `class_sitname` LIKE '%%' || `class` LIKE '%%' || `class_number` LIKE '%%' ) [ RunTime:0.0026s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000018s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000031s ]
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002431s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002447s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000200s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000210s ]
+
+[ 2024-02-25T16:32:25+08:00 ] 111.83.112.211 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000776s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0012s ]
+SQL: SELECT DISTINCT  `lastclass` FROM `class` ORDER BY  `lastclass` desc  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `config` LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000046s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007900s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007927s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000444s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000803s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000819s ]
+
+[ 2024-02-25T16:32:28+08:00 ] 111.83.112.211 /index.php/Studentaid/Index/class_post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000248s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `class` WHERE ( `lastclass`='管理碩' )  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000241s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000253s ]
+
+[ 2024-02-25T17:06:06+08:00 ] 65.154.226.169 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000961s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000980s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0011s ]
+SQL: SELECT DISTINCT  `lastclass` FROM `class` ORDER BY  `lastclass` desc  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `config` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0011s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000060s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010613s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010629s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000550s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000566s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000914s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000934s ]
+
+[ 2024-02-25T17:37:28+08:00 ] 147.92.179.112 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000723s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0008s ]
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0013s ]
+SQL: SELECT DISTINCT  `lastclass` FROM `class` ORDER BY  `lastclass` desc  [ RunTime:0.0012s ]
+SQL: SELECT * FROM `config` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0013s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000043s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007884s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007900s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000656s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000670s ]
+
+[ 2024-02-25T17:54:53+08:00 ] 87.121.69.30 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000702s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000719s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0013s ]
+SQL: SELECT DISTINCT  `lastclass` FROM `class` ORDER BY  `lastclass` desc  [ RunTime:0.0012s ]
+SQL: SELECT * FROM `config` LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014647s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014695s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000652s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000676s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001261s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001279s ]
+
+[ 2024-02-25T20:08:44+08:00 ] 223.136.200.113 /index.php/Studentaid/Work/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000716s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0007s ]
+
+[ 2024-02-25T20:08:44+08:00 ] 223.136.200.113 /index.php/Studentaid/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000173s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000186s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: ex /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Trying to access array offset on value of type null /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/IndexController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0011s ]
+SQL: SELECT DISTINCT  `lastclass` FROM `class` ORDER BY  `lastclass` desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `config` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0011s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000045s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008032s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008059s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000736s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000753s ]
+
+[ 2024-02-25T20:08:45+08:00 ] 223.136.200.113 /index.php/Studentaid/Index/class_post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000198s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000212s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `class` WHERE ( `lastclass`='管理碩' )  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000336s ]
+
+[ 2024-02-25T20:08:49+08:00 ] 223.136.200.113 /index.php/Studentaid/Index/class_post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `class` WHERE ( `lastclass`='日機械' )  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000208s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000219s ]
+
+[ 2024-02-25T20:08:51+08:00 ] 223.136.200.113 /index.php/Studentaid/Work/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000176s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000191s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `elective` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `elective` WHERE ( class='日機械一乙' && `classify`='1' )  [ RunTime:0.0051s ]
+NOTIC: [2] Creating default object from empty value /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/WorkController.class.php 第 108 行.
+SQL: SHOW COLUMNS FROM `statistics` [ RunTime:0.0012s ]
+SQL: INSERT INTO `statistics` (`date`,`time`,`dataname`,`ip`) VALUES ('2024/02/25','08:08:51','日機械一乙','223.136.200.113') [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `class_type` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `class_type`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+NOTIC: [8] Undefined index: id /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 44 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [8] Undefined index: id /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 159 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003955s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003978s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000181s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000203s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000217s ]
+
+[ 2024-02-25T20:08:52+08:00 ] 223.136.200.113 /index.php/Studentaid/Work/name_post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000172s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000185s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `elective` where `class_sit` like '%' && class like '%日機械一乙%'&& ( false  || `class_name` LIKE '%%' || `class_sitname` LIKE '%%' || `class` LIKE '%%' || `class_number` LIKE '%%' ) [ RunTime:0.0024s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000017s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000029s ]
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001921s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001933s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000204s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000215s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000224s ]
+
+[ 2024-02-25T20:09:08+08:00 ] 223.136.200.113 /index.php/Studentaid/Work/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000257s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `elective` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `elective` WHERE ( class='日機械一甲' && `classify`='1' )  [ RunTime:0.0022s ]
+NOTIC: [2] Creating default object from empty value /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Studentaid/Controller/WorkController.class.php 第 108 行.
+SQL: SHOW COLUMNS FROM `statistics` [ RunTime:0.0012s ]
+SQL: INSERT INTO `statistics` (`date`,`time`,`dataname`,`ip`) VALUES ('2024/02/25','08:09:08','日機械一甲','223.136.200.113') [ RunTime:0.0024s ]
+SQL: SHOW COLUMNS FROM `class_type` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `class_type`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+NOTIC: [8] Undefined index: id /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 44 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [2] Use of undefined constant obligatory - assumed 'obligatory' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 72 行.
+NOTIC: [8] Undefined index: id /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/8eb969caeb5e138e96a09548927f7efa.php 第 159 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007032s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007056s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000398s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000416s ]
+
+[ 2024-02-25T20:09:10+08:00 ] 223.136.200.113 /index.php/Studentaid/Work/name_post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000208s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `elective` where `class_sit` like '%' && class like '%日機械一甲%'&& ( false  || `class_name` LIKE '%%' || `class_sitname` LIKE '%%' || `class` LIKE '%%' || `class_number` LIKE '%%' ) [ RunTime:0.0021s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000017s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000029s ]
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+NOTIC: [2] Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) /home/hhkone/domains/hhk.one/public_html/nuuclass/Application/Runtime/Cache/Studentaid/f9420204cc3b63f41d6f197d7d192238.php 第 4 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002394s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002408s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000349s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000292s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000304s ]
+

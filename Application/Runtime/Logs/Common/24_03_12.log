@@ -1,0 +1,30 @@
+[ 2024-03-12T00:01:56+08:00 ] 103.17.149.37 /?s=index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+ERR: 无法加载模块:Index
+
+[ 2024-03-12T02:27:39+08:00 ] 103.17.149.37 /?s=index/think/Container/invokefunction&function=call_user_func_array&vars%5B0%5D=system&vars%5B1%5D%5B%5D=echo%20www_admin_com
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+ERR: 无法加载模块:Index
+
+[ 2024-03-12T04:21:47+08:00 ] 103.17.149.37 /?s=index/think/Container/invokefunction&function=call_user_func_array&vars%5B0%5D=system&vars%5B1%5D%5B%5D=echo%20www_admin_com
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+ERR: 无法加载模块:Index
+
+[ 2024-03-12T06:34:28+08:00 ] 103.17.149.37 /?s=index/think/app/invokefunction&function=call_user_func_array&vars%5B0%5D=assert&vars%5B1%5D%5B0%5D=phpinfo();
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+ERR: 无法加载模块:Index
+
+[ 2024-03-12T08:19:21+08:00 ] 103.17.149.37 /?s=index/think/app/invokefunction&function=call_user_func_array&vars%5B0%5D=assert&vars%5B1%5D%5B0%5D=phpinfo();
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+ERR: 无法加载模块:Index
+

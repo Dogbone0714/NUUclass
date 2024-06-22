@@ -112,7 +112,7 @@
 
                                 </g><?php endforeach; endif; else: echo "" ;endif; endforeach; endif; else: echo "" ;endif; ?>
 
-                        <text x="0" y="15" fill="#363F45" class='logo'>聯大輔助選課系統:studentaid.nuucloud.com</text>
+                        <text x="0" y="15" fill="#363F45" class='logo'>聯大輔助選課系統:https://nuuclass.hhk.one/index.php/</text>
                     </svg>
                     <div id="svgload">
                         <img src="/Public/Studentaid/images/rolling.svg" />
@@ -593,5 +593,5 @@
                 alert('存檔成功');
             });
         });
-        show_fb_talks('fb', $(window).width(), 10, 'http://studentaid.nuucloud.com/');
+        show_fb_talks('fb', $(window).width(), 10, 'https://nuuclass.hhk.one/index.php/');
     </script>

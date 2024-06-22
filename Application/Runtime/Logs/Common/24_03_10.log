@@ -1,0 +1,72 @@
+[ 2024-03-10T01:33:14+08:00 ] 103.17.149.37 /?s=captcha/calc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+ERR: 无法加载模块:Captcha
+
+[ 2024-03-10T03:25:03+08:00 ] 103.17.149.37 /?s=captcha/calc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+ERR: 无法加载模块:Captcha
+
+[ 2024-03-10T05:23:46+08:00 ] 103.17.149.37 /index.php?s=index/\think\view\driver\Php/display&content=%3C?php%20var_dump(md5(2333));?%3E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000763s ]
+ERR: 无法加载模块:Index
+
+[ 2024-03-10T05:36:47+08:00 ] 103.17.149.37 /?s=index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000805s ]
+ERR: 无法加载模块:Index
+
+[ 2024-03-10T07:20:12+08:00 ] 103.17.149.37 /?s=index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+ERR: 无法加载模块:Index
+
+[ 2024-03-10T09:25:12+08:00 ] 103.17.149.37 /?s=index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000833s ]
+ERR: 无法加载模块:Index
+
+[ 2024-03-10T11:15:16+08:00 ] 103.17.149.37 /?s=index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+ERR: 无法加载模块:Index
+
+[ 2024-03-10T13:34:28+08:00 ] 103.17.149.37 /?s=index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+ERR: 无法加载模块:Index
+
+[ 2024-03-10T15:25:44+08:00 ] 103.17.149.37 /?s=index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+ERR: 无法加载模块:Index
+
+[ 2024-03-10T19:12:43+08:00 ] 134.122.200.45 /index.php?s=captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+ERR: 无法加载模块:Captcha
+
+[ 2024-03-10T19:52:25+08:00 ] 202.165.70.68 /?s=index/think/app/invokefunction&function=call_user_func_array&vars%5B0%5D=assert&vars%5B1%5D%5B0%5D=phpinfo()
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+ERR: 无法加载模块:Index
+
+[ 2024-03-10T23:09:17+08:00 ] 202.165.70.68 /?s=index/thinkRequest/input&filter%5B%5D=system&data=pwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+ERR: 无法加载模块:Index
+
